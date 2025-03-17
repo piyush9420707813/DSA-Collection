@@ -1,0 +1,24 @@
+public class javabasics {
+    public static void main(String[] args) {
+        binToDec(111);
+     
+    }
+
+    public static void binToDec(int binNum) {
+        int Mynum=binNum;
+        int pow=0;
+        int decN=0;
+        int LD=0;
+        while(binNum>0){
+            LD=binNum%10;
+            decN=decN+(LD*(int)Math.pow(2,pow));
+            pow++;
+            binNum=binNum/10;
+
+        }
+        System.out.println ("the binary number "+Mynum+" is " + decN);
+
+
+        
+    }
+}
