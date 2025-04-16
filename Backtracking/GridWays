@@ -17,3 +17,4 @@ public class GridWays {
         System.out.println(Gridways(0, 0, n, m));
     }    
 }
+// or use the formula for total ways = (n-1 + m-1)!/(n-1)!(m-1)! 
