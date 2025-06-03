@@ -20,13 +20,16 @@ So, I started this repo to:
 ---
 
 ## 🔥 Topics Covered
-
-✅ Arrays  
+✅ 2d Arrays
+✅ Arrays 
+✅ ArrayList
+✅ Divide and Conquer
 ✅ Strings  
 ✅ Linked List   *(In Progress)*
-✅ Stack & Queue  
-✅ Binary Search Trees  
-✅ Recursion & Backtracking  
+✅ Stack & Queue  *(In Progress)*
+✅ Binary Search Trees  *(In Progress)*
+✅ Recursion 
+✅ Backtracking  
 ✅ Sorting & Searching  
 ✅ Bit Manipulation  
 ✅ Hashing    *(In Progress)*
@@ -64,16 +67,15 @@ I aim to solve at least **2-3 problems daily**, focusing on both basic and advan
 ## 🛤️ My Learning Path
 
 - [x] Alpha (DSA with Java) – Apna College  
-- [x] LeetCode 100 Problems Challenge  
+- [x] LeetCode 
 
 
 ---
 
 ## 🌐 Connect with Me
 
-- 📌 LinkedIn: [Piyush Gawali](https://www.linkedin.com/in/piyush-gawali-0a2819274)  
-- 📌 Instagram (for fun + tabla 🥁): [@piyush.gawali_](https://www.instagram.com/piyush.gawali_/)
-
+- 📌 LinkedIn: [Piyush Gawali]([https://www.linkedin.com/in/piyush-gawali-0a2819274](https://www.linkedin.com/in/piyush-gawali-852217316/4))  
+- 📌 Instagram: [@piyush.gawali_](https://www.instagram.com/heyits_piyush/)
 ---
 
 ## ⚡ Final Note
